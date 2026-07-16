@@ -72,7 +72,7 @@ body:
       required: true
   - type: input
     attributes:
-      label: Magisk/KernelSU/APatch version / Magisk/KernelSU/APatch 版本
+      label: Magisk/KernelSU/APatch Root method type + version / Magisk/KernelSU/APatch Root 方式类型 + 版本
     validations:
       required: true
   - type: checkboxes
@@ -85,7 +85,7 @@ body:
   - type: textarea
     attributes:
       label: Logs/日志
-      description: For usage issues, please provide the log zip saved from KernelSU / APatch manager (For magisk user, please **DO NOT** provide magisk logs), or catch logs with [log catcher module](https://t.me/hwrtools/10) or [tool](https://t.me/hwrtools/12). Without logs zip, the issue will be closed. /使用问题请提供从 KernelSU / APatch 管理器保存的日志压缩包（Magisk 用户请**不要**提供 Magisk 日志），或者使用[日志抓取模块](https://t.me/hwrtools/10)或[工具](https://t.me/hwrtools/12)获取日志。没有日志附件的问题会被关闭。
+      description: For usage issues, please provide the bugreport or log saved from **Zygisk Next's action or 'Send bugreport' in WebUI** / KernelSU / APatch manager (For magisk user, please **DO NOT** provide magisk logs), or catch logs with [log catcher module](https://t.me/hwrtools/10) or [tool](https://t.me/hwrtools/12). Without logs zip, the issue will be closed. /使用问题请提供从 **Zygisk Next 的 action 或 WebUI 的「发送 bugreport」** / KernelSU / APatch 管理器保存的 Bugreport 或日志（Magisk 用户请**不要**提供 Magisk 日志），或者使用[日志抓取模块](https://t.me/hwrtools/10)或[工具](https://t.me/hwrtools/12)获取日志。没有日志附件的问题会被关闭。
       placeholder: Upload logs zip by clicking the bar on the bottom. Upload logs to other websites or using external links is prohibited. /点击文本框底栏上传日志压缩包，禁止上传到其它网站或使用外链提供日志。
     validations:
       required: true
