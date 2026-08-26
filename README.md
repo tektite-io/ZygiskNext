@@ -18,6 +18,10 @@ Standalone implementation of Zygisk, providing Zygisk API support for KernelSU a
 + Minimal version: 26402
 + Built-in Zygisk turned off
 
+## Translations
+
+You can contribute to translations for the WebUI via making pull requests to the [i18n branch](https://github.com/Dr-TSNG/ZygiskNext/tree/i18n).
+
 ## Zygisk Next API
 
 Zygisk Next provides an API for injecting into init-oriented processes. See [zygisk_next_api.h](zygisk_next_api.h) for more information.
