@@ -32,7 +32,7 @@ Zygisk Next also supports application callbacks for HyperOS Rust Runtime, which 
 
 ## Copyright Notice
 
-Copyright © 2024 Zygisk Next developers. All rights reserved.
+Copyright © 2024-2026 Zygisk Next developers. All rights reserved.
 
 The software Zygisk Next, starting from version v4-0.9.2, is no longer under the GPL-3.0 License. Instead, all rights to the software are reserved by the owner.
 
